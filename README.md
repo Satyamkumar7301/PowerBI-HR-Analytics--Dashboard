@@ -1,2 +1,4 @@
 # PowerBI-HR-Analytics--Dashboard
-HR Analytics Dashboard done with Power Bi 
+## **Objective**
+Help an organization to improve employee performance and improve employee retention by creating a HR Analytics dashboard.
+ 
